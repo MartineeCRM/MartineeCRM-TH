@@ -1,4 +1,4 @@
-{"basis_item": "아메리카노", "related_items": [{ "rank" : "1", "item_id" : "9500067", "item_name" : "더블더블", "percentage":"0.272791770131252"}, 
+{"response_list": [{"basis_item": "아메리카노", "related_items": [{ "rank" : "1", "item_id" : "9500067", "item_name" : "더블더블", "percentage":"0.272791770131252"}, 
 { "rank" : "2", "item_id" : "9500270", "item_name" : "콜드브루", "percentage":"0.148456899609791"}, 
 { "rank" : "3", "item_id" : "9500120", "item_name" : "오리지널 아이스캡", "percentage":"0.135686413621852"}, 
 { "rank" : "4", "item_id" : "9500061", "item_name" : "블랙커피", "percentage":"0.117417523944661"}, 
@@ -487,4 +487,4 @@
 { "rank" : "7", "item_id" : "9500112", "item_name" : "프렌치바닐라 라떼", "percentage":"0.0359281437125749"}, 
 { "rank" : "8", "item_id" : "9500124", "item_name" : "자바칩 아이스캡", "percentage":"0.0359281437125749"}, 
 { "rank" : "9", "item_id" : "9500104", "item_name" : "카페 라떼", "percentage":"0.0359281437125749"}, 
-{ "rank" : "10", "item_id" : "9500270", "item_name" : "콜드브루", "percentage":"0.029940119760479"}]}
+{ "rank" : "10", "item_id" : "9500270", "item_name" : "콜드브루", "percentage":"0.029940119760479"}]}]}
